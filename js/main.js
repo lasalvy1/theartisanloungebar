@@ -531,7 +531,7 @@
           spinner: "off",
           stopLoop: "off",
           stopAfterLoops: 0,
-          stopAtSlide: 7,
+          stopAtSlide: 8,
           shuffle: "off",
           autoHeight: "off",
           fullScreenAutoWidth: "off",
