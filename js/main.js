@@ -543,6 +543,7 @@
           hideSliderAtLimit: 0,
           hideCaptionAtLimit: 0,
           hideAllCaptionAtLilmit: 0,
+		  onHoverstop: on,
           debugMode: false,
           fallbacks: {
             simplifyAll: "off",
