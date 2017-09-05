@@ -79,7 +79,7 @@
       ]
     });
     $('.js-product-slide-nav').slick({
-      slidesToShow: 5,
+      slidesToShow: 7,
       slidesToScroll: 1,
       asNavFor: '.js-product-slide-for',
       dots: false,
@@ -531,7 +531,7 @@
           spinner: "off",
           stopLoop: "off",
           stopAfterLoops: 0,
-          stopAtSlide: 6,
+          stopAtSlide: 7,
           shuffle: "off",
           autoHeight: "off",
           fullScreenAutoWidth: "off",
